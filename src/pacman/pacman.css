@@ -1,0 +1,12 @@
+.pacman {
+    background-image: url(pacmanIcone.48.png);
+}
+
+
+
+
+.pacman.exploding {
+    background-image: url(bomb2.gif), 
+                      url(pacmanIcone.48.png);
+    background-size: contain, contain;
+}
